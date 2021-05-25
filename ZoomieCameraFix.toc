@@ -1,0 +1,8 @@
+## Interface: 20501
+## X-Max-Interface: 90005
+## X-Min-Interface: 11302
+## Title: ZoomieCameraFix
+## Notes: by @Dodgin#0001
+## Version: 1.0
+
+ZoomieCameraFix.lua
